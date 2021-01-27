@@ -1,0 +1,21 @@
+#Github와 친해지기
+
+#유용한 명령어
+
+## git init
+	- 깃허브와 컴퓨터 내에 폴더를 연결 시켜주는 명령어
+## git status
+	- 현재 내 깃허브 내의 상태를 알려줌
+	- Untracked files: 것허브에 추가되지 않은 파일이 있음
+
+
+## git add .
+	- 로컬에 변경된 부분을 업데이트 해주는 명령어
+
+## git commit .m " ~~~" 
+	- commit 추가하는 명령어
+
+## git push origin +master (push 요청)
+	- 실제 파일을 깃허브에 올리기 위한 명령어
+
+## 
